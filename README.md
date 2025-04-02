@@ -1,16 +1,18 @@
-## Hi there 👋
+### Howdy! I'm Kat.
 
-<!--
-**kattang/kattang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data and business systems analyst, passionate about leveraging data and technology to continually improve myself and my communities.
 
-Here are some ideas to get you started:
+📑 Experienced in: 
+- Data analysis, reporting, and modeling
+- Developing dashboards and other data visualizations
+- Process improvement
+- Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tools of the trade:
+- **Databases:** SQL Server, PostgreSQL, Oracle SQL
+- **Languages:** Python, DAX, HTML/CSS, JavaScript
+- **Visualization:** Power BI, Tableau
+
+🤝 Let’s connect!\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/knguyena/)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Website](https://kattang.com)
